@@ -1,0 +1,15 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< giovanni-rey:maven-quick-start >-------------------
+[INFO] Building maven-quick-start 1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ maven-quick-start ---
+[INFO] giovanni-rey:maven-quick-start:jar:1.0
+[INFO] \- org.apache.commons:commons-lang3:jar:3.9:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 1.420 s
+[INFO] Finished at: 2019-07-09T15:43:07-05:00
+[INFO] ------------------------------------------------------------------------
